@@ -1,0 +1,12 @@
+.footer {
+    background-color: #262C7C;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.footer__title {
+    color: #fff;
+}

@@ -1,0 +1,10 @@
+.case__block {
+    width: 25px;
+    height: 25px;
+    background-color: red;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+}

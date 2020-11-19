@@ -1,0 +1,19 @@
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+
+.header__title {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+@media (max-width: 350px) {
+    .header__title {
+        font-size: 14px;
+    }
+}

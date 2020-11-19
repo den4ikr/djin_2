@@ -1,0 +1,19 @@
+.wrapper {
+    background-color: #262C7C;
+    position: relative;
+    height: 250px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+@media (max-width: 850px) {
+    .row {
+        flex-direction: column;
+    }
+}
