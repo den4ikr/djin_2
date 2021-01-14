@@ -4,7 +4,7 @@ const Footer = (props) => {
     return (
         <div className = {s.footer} >
             <div className = {s.footer__title} >
-                Corona Tracker
+                Corona Tracker!!!
             </div>
         </div>
     )
